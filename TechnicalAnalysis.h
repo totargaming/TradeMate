@@ -7,6 +7,7 @@
 #include <assert.h>
 #include <thread>
 #include <mutex>
+#include <algorithm>
 #include <boost/optional.hpp>
 #include "JSONdata.h"
 
